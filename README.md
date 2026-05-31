@@ -1,4 +1,4 @@
-# Isaac-Step-Curriculum
+# IsaacSim-Step-By-Step
 
 > **Isaac Sim 5.1을 Step-by-Step으로 마스터하는 교육 커리큘럼**
 
